@@ -1,0 +1,27 @@
+body {
+  background: rbg(255, 200, 255);
+}
+.SimpleForm {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.from {
+  background: blue;
+  margin: 5px;
+}
+
+.field {
+  margin: 10px;
+}
+
+.btn {
+  justify-self: center;
+  background: blue;
+  margin: 5px;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(12, 12, 12, 0.2);
+}
