@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: powderblue;
+  border-radius: 10px;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 5px;
+  background: transparent;
+}
